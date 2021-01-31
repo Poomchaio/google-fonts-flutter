@@ -8,8 +8,7 @@ environment:
   flutter: ^1.17.0
 
 dependencies:
-  http: 
-    git: 0.13.0-nullsafety.0
+  http: ^0.13.0-nullsafety.0
   flutter:
     sdk: flutter
   path_provider: '>=1.4.0 <3.0.0'
